@@ -1,6 +1,6 @@
 // Button.tsx
 import { cva } from 'class-variance-authority';
-import React, { type ButtonHTMLAttributes, type ReactNode } from 'react';
+import React, {type ReactNode } from 'react';
 
 interface ButtonProps {
     children: ReactNode;
